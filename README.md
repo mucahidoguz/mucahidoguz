@@ -14,13 +14,14 @@
 <code><img height="75" src="'https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png'"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
+<code><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
 
 
 ## 📫 How to Reach Me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/m%C3%BCcahid-o%C4%9Fuz-6aa66218b/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>  </br>  </br> 
 
