@@ -1,6 +1,5 @@
 
  # <img src="https://www.emojiall.com/images/60/telegram/1f91d.gif" width="50px"/> Hi Everyone !
-</br>
 
 # 💻 I'm a Frontend Developer. ⌨
 </br> 
