@@ -1,6 +1,7 @@
 
  #  <img src="https://tenor.com/bAsde.gif" width="30px"/> Hi Everyone !
 </br>
+ <img src="https://tenor.com/bAsde.gif" width="30px"/>
 
 # 💻 I'm a Frontend Developer.
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
