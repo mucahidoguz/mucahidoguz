@@ -24,33 +24,33 @@
 </br>
 
 ## 📚 Learning & Interested
-  <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/>
-
-👉 HTML5 </br>
-👉 CSS3 </br>
-👉 SASS (SCSS) </br>
-👉 JavaScript </br>
-👉 React </br>
-👉 Redux </br>
-👉 Redux Toolkit </br>
-👉 TypeScript </br>
-👉 Boostrap </br>
-👉 Material UI </br>
-👉 Git - Github </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> HTML5 </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> CSS3 </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> SASS (SCSS) </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> JavaScript </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> React </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Redux </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Redux Toolkit </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> TypeScript </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Boostrap </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Material UI </br>
+<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Git - Github </br>
 </br> 
+<img src="" width="30px"/>
 
-
-## 📫 How to Reach Me
+## 📫 <img src="https://www.emojiall.com/images/60/telegram/1f50e.gif" width="30px"/> How to Reach Me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/m%C3%BCcahid-o%C4%9Fuz-6aa66218b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>  </br>  </br> 
+</div>
+</br> 
 
-</br>  </br> 
-                                                                           <div>
-                                                                            <img src="https://komarev.com/ghpvc/?username=mucahidoguz&style=flat-square&color=blue" alt=""/>
-                                                                            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-                                                                          </div>  </br>  </br>  
+</br>  
+   <div>
+ <img src="https://komarev.com/ghpvc/?username=mucahidoguz&style=flat-square&color=blue" alt=""/>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </div>
+ </br>  
 
