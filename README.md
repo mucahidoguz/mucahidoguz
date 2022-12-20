@@ -48,7 +48,7 @@
 </br> 
 
 </br>  
-   <div style="display: flex;" justify-content:center;" >
+   <div style="display: flex; justify-content: Flex-End;" >
  <img src="https://komarev.com/ghpvc/?username=mucahidoguz&style=flat-square&color=blue" alt=""/>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
