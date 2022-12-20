@@ -1,5 +1,3 @@
-### Heyy Lady and Gentlemen 👋
-
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
@@ -13,7 +11,7 @@
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-<code><img height="75" src="'https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png'"></code>
+<code><img height="75" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png"></code>
 <code><img height="75" src=""></code>
 <code><img height="75" src=""></code>
 <code><img height="75" src=""></code>
