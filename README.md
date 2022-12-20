@@ -19,8 +19,8 @@
 ## 📫 How to Reach Me
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/m%C3%BCcahid-o%C4%9Fuz-6aa66218b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/m%C3%BCcahid-o%C4%9Fuz-6aa66218b/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ target="_blank">
   </a>
 </div>  </br>  </br> 
 
