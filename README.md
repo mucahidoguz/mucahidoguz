@@ -21,3 +21,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/mucahidoguz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m%C3%BCcahid-o%C4%9Fuz-6aa66218b/)
 
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=mucahidoguz&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>  </br>  </br>
+
