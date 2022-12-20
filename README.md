@@ -12,6 +12,7 @@
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
+<code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg"></code>
 </br> 
 
 ## 📌 GitHub Stats And Top Languages
@@ -27,17 +28,24 @@
 
 ## <img src="https://www.emojiall.com/images/60/telegram/1f5c2.gif" width="30px"/> Learning & Interested
 
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> HTML5 </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> CSS3 </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> SASS (SCSS) </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> JavaScript </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> React </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Redux </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Redux Toolkit </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> TypeScript </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Boostrap </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Material UI </br>
-<img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Git - Github </br>
+<div>
+   <div>
+     <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> HTML5 </br>
+     <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> CSS3 </br>
+     <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> SASS (SCSS) </br>
+     <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> JavaScript </br>
+     <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> React </br>
+     <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Redux </br>
+  </div>
+  <div>
+    <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Redux Toolkit </br>
+    <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> TypeScript </br>
+    <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Boostrap </br>
+    <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Material UI </br>
+    <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Git - Github </br>
+    <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Json Server </br>
+  </div>
+</div>
 </br> 
 
 
