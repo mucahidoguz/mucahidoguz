@@ -1,5 +1,5 @@
 
- #  <img src="https://www.emojiall.com/images/60/telegram/1f31f.gif" width="50px"/> Hi Everyone !
+ #  <img src="https:https://www.emojiall.com/images/60/telegram/1f91d.gif" width="50px"/> Hi Everyone !
 </br>
 
 # 💻 I'm a Frontend Developer. ⌨
@@ -22,7 +22,7 @@
   </div>
 </div>
 
-## <img src="https://www.emojiall.com/images/60/telegram/1f5c2.gif" width="30px"/> Learning & Interested <img src="https://www.emojiall.com/images/60/telegram/1f31f.gif" width="30px"/>
+## <img src="https://www.emojiall.com/images/60/telegram/1f5c2.gif" width="30px"/> Learning & Interested
 
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> HTML5 </br>
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> CSS3 </br>
@@ -49,6 +49,6 @@
 </br>  
    <div style="display: flex; justify-content:flex-end;" >
  <img src="https://komarev.com/ghpvc/?username=mucahidoguz&style=flat-square&color=blue" alt=""/>
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ <img src="https://www.emojiall.com/images/60/telegram/1f31f.gif" width="30px"/>
   </div>
  </br>
