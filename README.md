@@ -51,7 +51,7 @@
 </br> 
 
 </br>  
-   <div style={display:flex; justify-content:flex-end;} >
+   <div style="display:flex" "justify-content:flex-end" >
  <img src="https://komarev.com/ghpvc/?username=mucahidoguz&style=flat-square&color=blue" alt=""/>
  <img src="https://www.emojiall.com/images/60/telegram/1f31f.gif" width="30px"/>
   </div>
