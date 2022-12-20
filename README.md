@@ -20,7 +20,7 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=mucahidoguz&show_icons=true&count_private=true&hide=contribs,issues" alt="mucahidoguz's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahidoguz&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
-</br>  </br>
+</br>
 
 ## 📚 Learning & Interested
 
@@ -35,7 +35,7 @@
 👉 Boostrap </br>
 👉 Material UI </br>
 👉 Git - Github </br>
-</br>  </br>
+</br> 
 
 
 ## 📫 How to Reach Me
