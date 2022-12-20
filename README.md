@@ -1,5 +1,5 @@
 
- #  <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Frenkliduvar.blogspot.com%2F2015%2F01%2Fdunya-gezegen-hareketli-resimler.html&psig=AOvVaw3BgzbUhagHO_9WLfWqz7ww&ust=1671609077620000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPi0i53bh_wCFQAAAAAdAAAAABAb" width="30px"/> Hi Everyone !
+ #  <img src="https://tenor.com/bB7UQ.gif" width="30px"/> Hi Everyone !
 </br>
 
 # 💻 I'm a Frontend Developer.
