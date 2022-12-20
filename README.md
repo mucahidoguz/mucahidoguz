@@ -1,8 +1,8 @@
 
  #  <img src="https://tenor.com/bAsde.gif" width="30px"/> Hi Everyone !
 </br>
- <img src="https://tenor.com/bAsde.gif" width="30px"/>
-<div class="tenor-gif-embed" data-postid="21042246" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042246">Dm4uz3 Foekoe Sticker</a>from <a href="https://tenor.com/search/dm4uz3-stickers">Dm4uz3 Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img src="<div class="tenor-gif-embed" data-postid="21042246" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042246">Dm4uz3 Foekoe Sticker</a>from <a href="https://tenor.com/search/dm4uz3-stickers">Dm4uz3 Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="30px"/>
+
 # 💻 I'm a Frontend Developer.
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
