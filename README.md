@@ -1,7 +1,6 @@
 
  # <img src="https://www.emojiall.com/images/60/telegram/1f91d.gif" width="50px"/> Hi Everyone !
 </br>
-
 # 💻 I'm a Frontend Developer. ⌨
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
@@ -21,6 +20,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahidoguz&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
   </div>
 </div>
+</br> 
 
 ## <img src="https://www.emojiall.com/images/60/telegram/1f5c2.gif" width="30px"/> Learning & Interested
 
@@ -36,6 +36,7 @@
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Material UI </br>
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Git - Github </br>
 </br> 
+
 
 ## <img src="https://www.emojiall.com/images/60/telegram/1f50e.gif" width="30px"/> How to Reach Me
 
