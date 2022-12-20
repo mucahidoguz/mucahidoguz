@@ -3,7 +3,7 @@
 </br>
  https://tenor.com/bAsde.gif
 
-# 💻 I'm a Frontend Developer.
+# 💻 <img src="https://www.emojiall.com/images/60/telegram/2328-fe0f.gif" width="30px"/>I'm a Frontend Developer.
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
@@ -23,7 +23,7 @@
 </p>
 </br>
 
-## 📚 Learning & Interested
+## <img src="https://www.emojiall.com/images/60/telegram/1f5c2.gif" width="30px"/> Learning & Interested
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> HTML5 </br>
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> CSS3 </br>
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> SASS (SCSS) </br>
@@ -38,7 +38,7 @@
 </br> 
 <img src="" width="30px"/>
 
-## 📫 <img src="https://www.emojiall.com/images/60/telegram/1f50e.gif" width="30px"/> How to Reach Me
+## <img src="https://www.emojiall.com/images/60/telegram/1f50e.gif" width="30px"/> How to Reach Me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/m%C3%BCcahid-o%C4%9Fuz-6aa66218b/">
