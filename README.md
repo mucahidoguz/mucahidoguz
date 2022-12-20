@@ -1,13 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
-</div>
 
-<h1>
  # 🌎 Hi Everyone 
-</h1>
+</br>  </br> 
 
 # 💻 I'm a Frontend Developer.
-
+</br>  </br> </br>  </br> 
 
 ## 📌 GitHub Stats And Top Languages
 
