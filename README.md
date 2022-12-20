@@ -2,7 +2,6 @@
  #  <img src="https://www.emojiall.com/images/60/telegram/1f31f.gif" width="50px"/> Hi Everyone !
 </br>
 
-
 # 💻 I'm a Frontend Developer. ⌨
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
@@ -12,8 +11,7 @@
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
-</br>  </br> 
-
+</br> 
 
 ## 📌 GitHub Stats And Top Languages
 
@@ -24,7 +22,8 @@
   </div>
 </div>
 
-## <img src="https://www.emojiall.com/images/60/telegram/1f5c2.gif" width="30px"/> Learning & Interested
+## <img src="https://www.emojiall.com/images/60/telegram/1f5c2.gif" width="30px"/> Learning & Interested <img src="https://www.emojiall.com/images/60/telegram/1f31f.gif" width="30px"/>
+
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> HTML5 </br>
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> CSS3 </br>
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> SASS (SCSS) </br>
