@@ -3,17 +3,6 @@
 </br>
 
 # 💻 I'm a Frontend Developer.
-</br>  </br> </br>
-
-## 📌 GitHub Stats And Top Languages
-
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=mucahidoguz&show_icons=true&count_private=true&hide=contribs,issues" alt="mucahidoguz's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahidoguz&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
-
-## 📚 Learning & Interested
-
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
@@ -23,6 +12,31 @@
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
 </br>  </br> 
+
+
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=mucahidoguz&show_icons=true&count_private=true&hide=contribs,issues" alt="mucahidoguz's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahidoguz&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
+</br>  </br>
+
+## 📚 Learning & Interested
+
+👉 HTML5 </br>
+👉 CSS3 </br>
+👉 SASS (SCSS) </br>
+👉 JavaScript </br>
+👉 React </br>
+👉 Redux </br>
+👉 Redux Toolkit </br>
+👉 TypeScript </br>
+👉 Boostrap </br>
+👉 Material UI </br>
+👉 Git - Github </br>
+</br>  </br>
+
 
 ## 📫 How to Reach Me
 
