@@ -1,5 +1,5 @@
 
- # 🌎 Hi Everyone 
+ # 🌎 Hi Everyone !
 </br>
 
 # 💻 I'm a Frontend Developer.
@@ -23,6 +23,7 @@
 </br>
 
 ## 📚 Learning & Interested
+  <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/>
 
 👉 HTML5 </br>
 👉 CSS3 </br>
