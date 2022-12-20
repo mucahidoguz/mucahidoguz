@@ -11,10 +11,12 @@
 
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
-
+<code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
+<code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="75" src="'https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png'"></code>
+<code><img height="75" src=""></code>
+<code><img height="75" src=""></code>
+<code><img height="75" src=""></code>
 ## 📚 My Medium Account
 
 [@mucahidoguz ](https://medium.com/@mucahidoguz)
