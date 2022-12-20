@@ -1,9 +1,9 @@
 
  # 🌎 Hi Everyone 
-</br>  </br> 
+</br>
 
 # 💻 I'm a Frontend Developer.
-</br>  </br> </br>  </br> 
+</br>  </br> </br>
 
 ## 📌 GitHub Stats And Top Languages
 
@@ -22,7 +22,7 @@
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
-
+</br>  </br> 
 
 ## 📫 How to Reach Me
 
@@ -32,7 +32,7 @@
   </a>
 </div>  </br>  </br> 
 
-
+</br>  </br> 
 <div>
   <img src="https://komarev.com/ghpvc/?username=mucahidoguz&style=flat-square&color=blue" alt=""/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
