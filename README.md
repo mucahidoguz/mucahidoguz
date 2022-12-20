@@ -17,12 +17,6 @@
 
 ## 📌 GitHub Stats And Top Languages
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=mucahidoguz&show_icons=true&count_private=true&hide=contribs,issues" alt="mucahidoguz's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahidoguz&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
-</br>
-
 <div align="center">
  <div style="display: flex;">
    <img src="https://github-readme-stats.vercel.app/api?username=mucahidoguz&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
