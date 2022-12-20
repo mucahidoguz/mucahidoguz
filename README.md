@@ -23,6 +23,13 @@
 </p>
 </br>
 
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
+
 ## <img src="https://www.emojiall.com/images/60/telegram/1f5c2.gif" width="30px"/> Learning & Interested
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> HTML5 </br>
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> CSS3 </br>
@@ -36,7 +43,6 @@
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Material UI </br>
 <img src="https://www.emojiall.com/images/60/telegram/1f449.gif" width="30px"/> Git - Github </br>
 </br> 
-<img src="" width="30px"/>
 
 ## <img src="https://www.emojiall.com/images/60/telegram/1f50e.gif" width="30px"/> How to Reach Me
 
@@ -48,7 +54,7 @@
 </br> 
 
 </br>  
-   <div>
+   <div style="display: flex;" >
  <img src="https://komarev.com/ghpvc/?username=mucahidoguz&style=flat-square&color=blue" alt=""/>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </div>
